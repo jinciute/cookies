@@ -4,17 +4,10 @@ eggs
 brown sugar
 butter
 chocolate chips
+his is another change to commit
 
-
-<<<<<<< HEAD
-this is another change to commit
-
-
-remove the essence
-=======
 vanilla
 
->>>>>>> 8dabd32bede9936a38ea1b77039ed4350b237966
 apple
 
 oranges and grapes will go in there too
